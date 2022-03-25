@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/BOXEL-REBOUND/Dasher/workflows/Build/badge.svg)](https://github.com/BOXEL-REBOUND/Dasher/actions)
+[![Build Status](https://github.com/BOXEL-REBOUND/Dasher/workflows/Build/badge.svg)](https://github.com/BOXEL-REBOUND/Dasher/actions) [![Join the chat at https://gitter.im/DasherSocial/community](https://badges.gitter.im/DasherSocial/community.svg)](https://gitter.im/DasherSocial/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <hr />
 # Dasher
