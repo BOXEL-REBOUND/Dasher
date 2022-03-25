@@ -20,4 +20,4 @@ Unfortunately, Dasher is not yet available for downloading. But you can clone th
 ### Version
 1.0.1
 ### License
-Apache License
+[MIT License](https://github.com/BOXEL-REBOUND/Dasher/blob/main/LICENSE)
